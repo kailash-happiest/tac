@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_mnMzceZREeex653H17PqAQ" label="demo_abhishek" description="demo_abhishek" language="java" technicalLabel="DEMO_ABHISHEK" creationDate="2017-12-21T18:38:14.107+0530" author="_mnMzcuZREeex653H17PqAQ" productVersion="Talend Data Integration-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/kailash-happiest/tac.git&quot;,&quot;login&quot;:&quot;kailash.yadav@happiestminds.com&quot;,&quot;passwd&quot;:&quot;Mpmlo8KwNL7QkkRXh1mf2Q==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false"/>
+  <TalendProperties:User xmi:id="_mnMzcuZREeex653H17PqAQ" login="abhishek@osscube.com" firstName="Abhishek" lastName="Kumar" type="DI" additionnalData="{}"/>
+</xmi:XMI>
